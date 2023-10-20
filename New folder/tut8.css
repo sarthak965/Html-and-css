@@ -1,0 +1,8 @@
+p{
+    color: brown;
+    background-color: aqua;
+}
+h1{
+    color: blue;
+}
+/* Making another css sheet to write css is called external css. Css is called using the link tag */
